@@ -1,4 +1,13 @@
 # FLICK-GAME 【BACKEND】
+
+このリポジトリはWAGIRIのバックエンドコードを格納しています.
+
+## WAAGIRI概要
+[概要はこちらをクリック](https://hackmd.io/QH1MOYRTR-CrXnnAqLvZbA)
+
+## API設計書
+[API設計はこちらをクリック](https://hackmd.io/wipuKgOGQ6uThzdBH9IA2g)
+
 ## サーバ起動方法
 
 ```shell
